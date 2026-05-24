@@ -18,14 +18,16 @@
 - HTML
 - CSS
 - JavaScript
+- React
 
 **Backend**
 - Node.js
-- MongoDB (Learning)
+- MongoDB 
 
 **Programming Languages**
 - C
 - C++
+- phython
 
 ---
 
@@ -33,7 +35,8 @@
 ### 🔹 ALLINFOVERSE
 Educational information website for exams, colleges, admissions, and study resources.
 
-🔗 Live Website: https://allinfoverse-link.web.app/  
+🔗 Live Website: https://allinfoverse-link.web.app/ 
+🔗 Live Website: https://buddy-73fef.web.app/
 📁 Tech Used: HTML, CSS, JavaScript, firebase . 
 
 ---
